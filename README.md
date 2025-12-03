@@ -17,3 +17,4 @@ Backports depodan mesa güncelemek isterseniz
 ```
 sudo apt install -t trixie-backports '?upgradable ?source-package("mesa|libdrm")'
 ```
+Güncellemeler sonrası bilgisayarı yeniden başlatın. :)
